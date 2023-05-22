@@ -1,2 +1,2 @@
 # TB-STRFNet
-Two Branch - STRFNet
+Two Branch - STRFNet (TBA)
